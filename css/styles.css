@@ -1,4 +1,5 @@
 
+
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
@@ -11,8 +12,8 @@ h1, h2, h3, h4,h5, h6 {
 
 p {
   color: #8f8f8f;
-  font-size: 1.2rem;
-  line-height: 1.5;
+  font-size: 0.6rem;
+  line-height: 1;
   font-weight: 600;
 }
 
@@ -22,14 +23,14 @@ p {
   color: #fff;
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
-  font-size: 4rem;
-  line-height: 1.5;
+  font-size: 2rem;
+  line-height: 1;
 }
 
 .price-heading {  
   font-weight: 8  00;
-  font-size: 3rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  line-height: 1;
 }
 
 
@@ -43,7 +44,7 @@ p {
 .navbar-brand {
   font-family: "Ubuntu";
   font-weight: bold;
-  font-size: 2.5rem;
+  font-size: 1.2rem;
 }
 
 .nav-item {
@@ -51,7 +52,7 @@ p {
 }
 
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 0.6rem;
   font-weight: thin;
 }
 
@@ -90,7 +91,7 @@ p {
 
 
 .title-img {
-  width: 60%;
+  width: 40%;
   transform: rotate(25deg);
   position: absolute;
   right: 29%;
@@ -100,8 +101,8 @@ p {
 
 .feature-title {  
   font-weight: 800;
-  font-size: 2rem;
-  line-height: 1.5;
+  font-size: 1rem;
+  line-height: 0.7;
 }
 
 .icon {
@@ -129,8 +130,8 @@ p {
 
 .testimonials-text {  
   font-weight: 800;
-  font-size: 3rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  line-height: 1;
 }
 
 .testimonial-img {
@@ -159,14 +160,14 @@ p {
 
 .price-text {  
   font-weight: 800;
-  font-size: 3rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  line-height: 1;
 }
 
 .price-category {  
   font-weight: 800;
-  font-size: 2rem;
-  line-height: 1.5;
+  font-size: 1rem;
+  line-height: 0.6;
 }
 
 
@@ -204,6 +205,10 @@ p {
 
 
   #title {
+    text-align: center;
+  }
+
+  #title .container-fluid {
     text-align: center;
   }
 
